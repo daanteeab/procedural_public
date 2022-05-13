@@ -3,14 +3,10 @@ Welcome to my procedural generation repo.
 
 As of now this repo only contains version 1.0 of my procedural tree class.
 More to come!
-last updated 22-03-20
+-last updated 22-03-20
 
 deps:
-
 ursina
-
 python 3.6+
-
 panda3d
-
 screeninfo
